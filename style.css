@@ -839,7 +839,7 @@ body {
 
 .experience-text-container {
 	position: absolute;
-	bottom: 185px;
+	bottom: 165px;
 	width: 510px;
 	background-color: #444;
 	padding: 40px;
@@ -1389,7 +1389,7 @@ img {
 }
 
 #piechart-aol-text-graphic-1 {
-	left: 98px;
+	left: 110px;
 	top: 98px
 }
 
@@ -1471,7 +1471,7 @@ img {
 }
 
 #piechart-incognito-text-animation-1 {
-	left: 10px;
+	left: 40px;
 	top: 97px
 }
 
@@ -2118,7 +2118,7 @@ img {
 
 #squid {
 	left: 430px;
-	bottom: 10px;
+	bottom: 5px;
 	width: 570px;
 	height: 600px
 }
