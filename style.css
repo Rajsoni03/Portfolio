@@ -1540,13 +1540,13 @@ img {
 }
 
 #plant-2 {
-	left: 360px;
-	top: 52%
+	left: 540px;
+	top: 65%
 }
 
 #plant-3 {
-	left: 540px;
-	top: 65%
+	left: 360px;
+	top: 52%
 }
 
 #plant-4 {
@@ -2118,9 +2118,9 @@ img {
 
 #squid {
 	left: 430px;
-	bottom: 5px;
-	width: 570px;
-	height: 600px
+	bottom: 0px;
+	width: 520px;
+	height: 550px
 }
 
 #squid-body {
@@ -2241,7 +2241,7 @@ img {
 	bottom: 20%;
 	width: 1180px;
 	height: 300px;
-	background-image: url(./images/title-publication.png)
+	background-image: url(./images/title-project.png)
 }
 
 #title-robby {
