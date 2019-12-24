@@ -10,6 +10,7 @@ function sendEmail() {
             var f = { "email-address": c, "email-subject": d, "email-message": e };
             setTimeout("showContactConfirmationContainer(2)", 200), setTimeout(function() { send(f) }, 2e3)
             $(document).ready(function() {
+            	console.log($("#email-massage").val());
                 Email.send({
                     Host: "rajksoni029@gmail.com",
                     Username: "username",
@@ -17,7 +18,7 @@ function sendEmail() {
                     To: 'rajksoni029@gmail.com',
                     From: $("#email-address").val(),
                     Subject: $("#email-subject").val(),
-                    Body: $("#email-massage").val()
+                    Body: 'nothing to send'
                 }).then(message => alert(message));
             });
             console.log('send');
