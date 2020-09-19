@@ -1413,37 +1413,37 @@ img {
 }
 
 #piechart-foxnews-front {
-	background-image: url(./images/piechart-foxnews-front.png)
+	background-image: url(./images/piechart-foxnews-front1.png)
 }
 
 #piechart-foxnews-text-graphic-1 {
-	left: 25px;
-	top: 98px
+	left: 10px;
+	top: 100px
 }
 
 #piechart-foxnews-text-graphic-2 {
-	left: 42px;
+	left: 35px;
 	top: 150px
 }
 
 #piechart-foxnews-text-animation-1 {
-	left: 191px;
-	top: 155px
+	left: 160px;
+	top: 170px
 }
 
 #piechart-foxnews-text-animation-2 {
-	left: 218px;
-	top: 193px
+	left: 160px;
+	top: 218px
 }
 
 #piechart-foxnews-text-code-1 {
-	left: 220px;
-	top: 67px
+	left: 185px;
+	top: 47px
 }
 
 #piechart-foxnews-text-code-2 {
-	left: 221px;
-	top: 105px
+	left: 185px;
+	top: 85px
 }
 
 #piechart-incognito {
@@ -1461,27 +1461,27 @@ img {
 }
 
 #piechart-incognito-text-graphic-1 {
-	left: 202px;
-	top: 155px
+	left: 195px;
+	top: 158px
 }
 
 #piechart-incognito-text-graphic-2 {
-	left: 216px;
+	left: 220px;
 	top: 194px
 }
 
 #piechart-incognito-text-animation-1 {
-	left: 40px;
+	left: 34px;
 	top: 97px
 }
 
 #piechart-incognito-text-animation-2 {
-	left: 46px;
+	left: 52px;
 	top: 148px
 }
 
 #piechart-incognito-text-code-1 {
-	left: 220px;
+	left: 227px;
 	top: 67px
 }
 
@@ -1792,12 +1792,12 @@ img {
 }
 
 #ribbon-2-2 {
-	left: 10735px;
+	left: 10900px;
 	top: 80%
 }
 
 #ribbon-2-3 {
-	left: 12240px;
+	left: 12300px;
 	top: 80%
 }
 

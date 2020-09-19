@@ -1295,7 +1295,7 @@ canAnimateFishInformation,
 isFishStillAnimating = !1,
 fishAnimateNumber = 0,
 numberOfFishInEachRowArray = new Array;
-numberOfFishInEachRowArray.push(5, 5, 3, 2);
+numberOfFishInEachRowArray.push(5, 4, 4, 3);
 var skill2ContainerDiv = document.getElementById("skill-2-container"),
 crabArray = new Array,
 crabEyeArray = new Array,
@@ -1303,7 +1303,7 @@ canAnimateCrabInformation,
 isCrabStillAnimating = !1,
 crabAnimateNumber = 0,
 numberOfCrabInEachRowArray = new Array;
-numberOfCrabInEachRowArray.push(5, 4, 3, 3);
+numberOfCrabInEachRowArray.push(5, 5, 5, 3);
 var skill3ContainerDiv = document.getElementById("skill-3-container"),
 turtleArray = new Array,
 turtleEyeArray = new Array,
@@ -1311,7 +1311,7 @@ canAnimateTurtleInformation,
 isTurtleStillAnimating = !1,
 turtleAnimateNumber = 0,
 numberOfTurtleInEachRowArray = new Array;
-numberOfTurtleInEachRowArray.push(4, 5, 3, 2);
+numberOfTurtleInEachRowArray.push(5, 5, 4, 4);
 var pageVerticalPosition = 0,
 pageVerticalPositionOnTouch = 0,
 previousPageVerticalPosition = 0,
