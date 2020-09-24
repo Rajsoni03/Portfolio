@@ -1202,39 +1202,46 @@ img {
 }
 
 #nba-board-1 {
-	left: 0px;
+	left: -120px;
 	bottom: 0
 }
 
 #nba-board-2 {
-	left: 120px;
+	left: 0px;
 	bottom: 0
 }
 
 #nba-board-3 {
-	left: 240px;
+	left: 120px;
 	bottom: 0
 }
 
 #nba-board-4 {
-	left: 550px;
+	left: 240px;
 	bottom: 0
 }
 
 #nba-board-5 {
-	left: 670px;
+	left: 360px;
 	bottom: 0
 }
 
 #nba-board-6 {
-	left: 790px;
+	left: 550px;
 	bottom: 0
 }
 
 #nba-board-7 {
-	left: -120px;
+	left: 670px;
 	bottom: 0
 }
+
+#nba-board-8 {
+	left: 790px;
+	bottom: 0
+}
+
+
 
 .nba-board-blue,.nba-board-red {
 	position: absolute;
